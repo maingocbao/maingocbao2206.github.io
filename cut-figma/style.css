@@ -218,6 +218,7 @@ a {
    flex-wrap: wrap;
    justify-content: space-between;
    padding: 45px 0;
+
 }
 
 .main-Talents img{
@@ -276,6 +277,9 @@ a {
     }
     .main-email-text {
         padding-right: 30px;
+    }
+    .main-Talents{
+      justify-content: space-evenly;
     }
 }
 @media(min-width: 993px) and (max-width:1200px){
